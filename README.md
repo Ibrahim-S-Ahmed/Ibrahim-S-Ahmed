@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ibrahim-S-Ahmed
+- 👋 Hi, I’m Ibrahim Sayed Ahmed
 - 👀 I’m interested in Data Science and Analytics.
 - 🌱 I’m currently learning Data Science and Analytics at Ryerson University,Ontario,Canada
 - 💞️ I’m looking to collaborate on Data Science projects
